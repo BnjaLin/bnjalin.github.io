@@ -1,3 +1,4 @@
+See my [resume](Benjamin_Jianbin_Lin's_Resume.pdf) here.
 ## EDUCATION
 
 **The University of Texas at Austin**, Austin, TX 
