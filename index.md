@@ -37,7 +37,7 @@
 
 ## TECHNICAL SKILLS
 
--	Programming Languages: Python, Kotlin, Java, JavaScript, C/C++, MATLAB, R, SQL, Linux Bash
--	Web Frameworks: React & Redux, Flask, Django, Express, Taro, Spring, Servlet
--	Tools: Metasploit, Postman, Selenium, PyTorch, Docker
--	Systems: Ubuntu, Kali
+-	**Programming Languages**: Python, Kotlin, Java, JavaScript, C/C++, MATLAB, R, SQL, Linux Bash
+-	**Web Frameworks**: React & Redux, Flask, Django, Express, Taro, Spring, Servlet
+-	**Tools**: Metasploit, Postman, Selenium, PyTorch, Docker
+-	**Systems**: Ubuntu, Kali
