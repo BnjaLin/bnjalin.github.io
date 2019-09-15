@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/BnjaLin/bnjalin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**The University of Texas at Austin**, Austin, TX 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- August 2016 - Expected May 2020
+- Bachelor of Science in Computer Science & Mathematics 
+- Honors Include: Dean’s Honor List; Distinguished Scholars
+- Relevant Coursework: Software Engineering, Mobile Computing, Modern Web App, Ethical Hacking, Neural Network, Artificial Intelligence
 
-### Markdown
+## WORK EXPERIENCE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**OKAY Ltd**. Melbourne, Australia	                     						             
 
-```markdown
-Syntax highlighted code block
+- June 2019 - August 2019
+- Software Engineer Intern	
+-	Designed, developed, and tested a native Android application including UI and core functionality.
+-	Deployed an MVP (Minimum Viable Product) of a Second-hand Exchange Platform WeChat Mini-Program using Taro.
+-	Implemented the back-end using NodeJS Express and MongoDB to constructed models and handled requests based on RESTful API.
+-	Documented all components and files to help future developers to maintain the codes.	
 
-# Header 1
-## Header 2
-### Header 3
+## SELECTED PROJECTS 
 
-- Bulleted
-- List
+**Security**
+- April 2019 - May 2019
+-	Conceptualized and developed an Automated MySQL Password Testing Tool, which automated penetration testing with a single command line in Kali.
+-	Used PyMetasploit as a communication bridge between Python and Metasploit.
+-	Used Metasploit and John-the-Ripper to test password robustness for a range of target hosts’ databases.
 
-1. Numbered
-2. List
+**Web Development**
+- June 2018 - August 2018	
+-	Designed and developed a dynamic website about animal conservation.
+-	Team leader of five students and main coder, dividing responsibility among group members, set clear goals, and schedules for different phases using Gitlab.
+-	Implemented components including listing, sorting, searching, and filters using React and Redux.
+-	Used python Flask and MySQL to constructed models and handled requests based on RESTful API.
+-	Separated front-end and back-end using Docker and hosted on AWS.
+-	Unit tested codes with Selenium (GUI), Mocha (JS), and Postman (API)
 
-**Bold** and _Italic_ and `Code` text
+## TECHNICAL SKILLS
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BnjaLin/bnjalin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-	Programming Languages: Python, Kotlin, Java, JavaScript, C/C++, MATLAB, R, SQL, Linux Bash
+-	Web Frameworks: React & Redux, Flask, Django, Express, Taro, Spring, Servlet
+-	Tools: Metasploit, Postman, Selenium, PyTorch, Docker
+-	Systems: Ubuntu, Kali
