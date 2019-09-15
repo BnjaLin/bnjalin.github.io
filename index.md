@@ -1,4 +1,7 @@
-See my [resume](Benjamin_Jianbin_Lin's_Resume.pdf) here.
+## HELLO
+
+Currently, I am looking for a full-time job in mid-2020. See my [resume](Benjamin_Jianbin_Lin's_Resume.pdf) here.
+
 ## EDUCATION
 
 **The University of Texas at Austin**, Austin, TX 
