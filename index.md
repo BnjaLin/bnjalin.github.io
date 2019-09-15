@@ -1,4 +1,4 @@
-## Education
+## EDUCATION
 
 **The University of Texas at Austin**, Austin, TX 
 
