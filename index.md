@@ -26,14 +26,16 @@ Currently, I am looking for a full-time job in mid-2020. See my [resume](Benjami
 
 **Security**
 - April 2019 - May 2019
--	Conceptualized and developed an Automated MySQL Password Testing Tool, which automated penetration testing with a single command line in Kali.
+-	Conceptualized and developed an Automated MySQL Password Testing Tool.
+- Automated penetration testing with a single command line in Kali.
 -	Used PyMetasploit as a communication bridge between Python and Metasploit.
 -	Used Metasploit and John-the-Ripper to test password robustness for a range of target hosts’ databases.
 
 **Web Development**
 - June 2018 - August 2018	
 -	Designed and developed a dynamic website about animal conservation.
--	Team leader of five students and main coder, dividing responsibility among group members, set clear goals, and schedules for different phases using Gitlab.
+-	Was team leader of five students and main coder.
+- Divided responsibility among group members, set clear goals, and scheduled for different phases using Gitlab.
 -	Implemented components including listing, sorting, searching, and filters using React and Redux.
 -	Used python Flask and MySQL to constructed models and handled requests based on RESTful API.
 -	Separated front-end and back-end using Docker and hosted on AWS.
